@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\klaus\\Documents\\Revature\\helloWord\\HelloWord.csproj": {}
+    "C:\\Users\\klaus\\Documents\\Revature\\KlausAppStore\\klausAppStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\klaus\\Documents\\Revature\\helloWord\\HelloWord.csproj": {
+    "C:\\Users\\klaus\\Documents\\Revature\\KlausAppStore\\klausAppStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\klaus\\Documents\\Revature\\helloWord\\HelloWord.csproj",
-        "projectName": "HelloWord",
-        "projectPath": "C:\\Users\\klaus\\Documents\\Revature\\helloWord\\HelloWord.csproj",
+        "projectUniqueName": "C:\\Users\\klaus\\Documents\\Revature\\KlausAppStore\\klausAppStore.csproj",
+        "projectName": "klausAppStore",
+        "projectPath": "C:\\Users\\klaus\\Documents\\Revature\\KlausAppStore\\klausAppStore.csproj",
         "packagesPath": "C:\\Users\\klaus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\klaus\\Documents\\Revature\\helloWord\\obj\\",
+        "outputPath": "C:\\Users\\klaus\\Documents\\Revature\\KlausAppStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

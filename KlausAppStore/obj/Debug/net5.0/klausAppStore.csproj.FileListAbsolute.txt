@@ -1,0 +1,16 @@
+C:\Users\klaus\Documents\Revature\KlausAppStore\bin\Debug\net5.0\klausAppStore.exe
+C:\Users\klaus\Documents\Revature\KlausAppStore\bin\Debug\net5.0\klausAppStore.deps.json
+C:\Users\klaus\Documents\Revature\KlausAppStore\bin\Debug\net5.0\klausAppStore.runtimeconfig.json
+C:\Users\klaus\Documents\Revature\KlausAppStore\bin\Debug\net5.0\klausAppStore.runtimeconfig.dev.json
+C:\Users\klaus\Documents\Revature\KlausAppStore\bin\Debug\net5.0\klausAppStore.dll
+C:\Users\klaus\Documents\Revature\KlausAppStore\bin\Debug\net5.0\ref\klausAppStore.dll
+C:\Users\klaus\Documents\Revature\KlausAppStore\bin\Debug\net5.0\klausAppStore.pdb
+C:\Users\klaus\Documents\Revature\KlausAppStore\obj\Debug\net5.0\klausAppStore.csproj.AssemblyReference.cache
+C:\Users\klaus\Documents\Revature\KlausAppStore\obj\Debug\net5.0\klausAppStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klaus\Documents\Revature\KlausAppStore\obj\Debug\net5.0\klausAppStore.AssemblyInfoInputs.cache
+C:\Users\klaus\Documents\Revature\KlausAppStore\obj\Debug\net5.0\klausAppStore.AssemblyInfo.cs
+C:\Users\klaus\Documents\Revature\KlausAppStore\obj\Debug\net5.0\klausAppStore.csproj.CoreCompileInputs.cache
+C:\Users\klaus\Documents\Revature\KlausAppStore\obj\Debug\net5.0\klausAppStore.dll
+C:\Users\klaus\Documents\Revature\KlausAppStore\obj\Debug\net5.0\ref\klausAppStore.dll
+C:\Users\klaus\Documents\Revature\KlausAppStore\obj\Debug\net5.0\klausAppStore.pdb
+C:\Users\klaus\Documents\Revature\KlausAppStore\obj\Debug\net5.0\klausAppStore.genruntimeconfig.cache

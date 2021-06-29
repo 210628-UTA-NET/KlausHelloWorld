@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pIB0Kr0GgNAsZLddpBhBniCDoCUW3HkSvg37PdIs+1f8Coz0Uj+NvUf+cJwL+HeahHfv8f01HcTcERh/nxOFtQ==",
+  "dgSpecHash": "EX4VPBOQf6vllbHQCcvP/koWalQbheQN/BfpGuQZ60cchn/DmqsyIeF5weyDylfSW+Nx5nRUIhL4AfIsnZR4XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\klaus\\Documents\\Revature\\HelloWord\\HelloWord.csproj",
+  "projectFilePath": "C:\\Users\\klaus\\Documents\\Revature\\helloWord\\HelloWord.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

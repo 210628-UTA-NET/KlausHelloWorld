@@ -5,8 +5,8 @@ namespace HelloWord
 {
     public class Collections
     {
-        static List<string> strings = new list<string>();
-        static ArrayList<> arrays = new ArrayList<>();
+        static List<string> strings = new List<string>();
+       // static ArrayList<> arrays = new ArrayList<>();
 
         public static void CollectionMain()
         {
