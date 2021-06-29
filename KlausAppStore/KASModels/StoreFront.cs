@@ -1,6 +1,6 @@
 using System;
 
-namespace klausAppStore
+namespace KASModels
 {
     public class StoreFront
     {

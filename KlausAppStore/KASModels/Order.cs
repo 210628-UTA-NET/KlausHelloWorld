@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace klausAppStore
+namespace KASModels
 {
     public class Order
     {
